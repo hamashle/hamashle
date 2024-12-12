@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamashle&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmos0&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamashle&theme=vue)
 
 ### HAMADAの語り草
 [https://hahahamada.hatenablog.com/](https://hahahamada.hatenablog.com/)
